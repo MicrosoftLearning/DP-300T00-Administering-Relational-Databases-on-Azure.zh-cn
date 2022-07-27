@@ -1,14 +1,16 @@
 ---
-ms.openlocfilehash: 8611d2cd2c3ec66eef09211be5451367dca20440
-ms.sourcegitcommit: 668426ecec2a7872a302f779461f6dd31fd2c4ae
+ms.openlocfilehash: 974e60c273db40bcb7dbad3e74ca9f2dc45425a2
+ms.sourcegitcommit: 7422ad6567fb2efb1a453053a6754631a0ff0d56
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "138419957"
+ms.lasthandoff: 07/19/2022
+ms.locfileid: "147369700"
 ---
 # <a name="dp-300-administering-relational-databases-on-microsoft-azure"></a>DP-300：在 Microsoft Azure 上管理关系数据库
 
-此存储库包含 Microsoft DP-300 的讲师引导式培训的实验室练习的说明、脚本文件和图像。 
+此存储库已停用，不再使用。
+
+若要访问 Microsoft DP-300 学习内容的实验室练习和说明，请参阅 [DP-300：管理 Microsoft Azure SQL 解决方案](https://github.com/MicrosoftLearning/dp-300-database-administrator)。 
 
 有七个实验室。
 
