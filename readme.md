@@ -8,11 +8,11 @@
 
 ## <a name="lab-1---using-the-azure-portal-and-sql-server-management-studio"></a>实验室 1 - 使用 Azure 门户和 SQL Server Management Studio
 
-Students will explore the Azure Portal and use it to create an Azure VM with SQL Server 2019 installed. Then they will connect to the virtual machine through Remote Desktop Protocol and restore a database using SQL Server Management Studio.
+学生将探索 Azure 门户，并使用它来创建一个安装了SQL Server 2019 的 Azure VM。 然后，他们将通过远程桌面协议连接到虚拟机，并使用 SQL Server Management Studio 还原数据库。
 
 ## <a name="lab-2--deploying-paas-databases"></a>实验室 2 – 部署 PaaS 数据库
 
-The student will configure basic resources needed to deploy an Azure SQL Database with a Virtual Network Endpoint. Connectivity to the SQL Database will be validated using Azure Data Studio from the lab VM. Finally, an Azure Database for PostgreSQL will be created.
+学生将配置部署具有虚拟网络终结点的 Azure SQL 数据库所需的基本资源。 将使用实验室 VM 中的 Azure Data Studio 验证到 SQL 数据库的连接。 最后，将创建一个 Azure Database for PostgreSQL。
 
 ## <a name="lab-3--implement-a-secure-environment"></a>实验室 3 - 实现安全环境
 
@@ -20,11 +20,11 @@ The student will configure basic resources needed to deploy an Azure SQL Databas
 
 ## <a name="lab-4--monitor-and-optimize-resources"></a>实验 4 – 监视和优化资源
 
-The students will take the information gained in the lessons to scope out the deliverables for a digital transformation project within AdventureWorks. Examining the Azure portal as well as other tools, students will determine how to utilize native tools to identify and resolve performance related issues. Finally, students will be able to identify fragmentation within the database as well as learn steps to resolve the issue appropriately.
+学生将获取从课程中获得的信息，以确定 AdventureWorks 中数字转换项目的可交付成果。 通过检查 Azure 门户以及其他工具，学生将确定如何利用本机工具来识别和解决与性能相关的问题。 最后，学生将能够识别数据库中的碎片，并学习恰当解决问题的步骤。
 
 ## <a name="lab-5--query-performance-troubleshooting"></a>实验室 5 – 查询性能疑难解答
 
-The students will evaluate a database design for problems with normalization, data type selection and index design. They will run queries with suboptimal performance, examine the query plans, and attempt to make improvements within the AdventureWorks2017 database.
+学生将评估数据库设计中的规范化、数据类型选择和索引设计问题。 他们将运行次优性能的查询，检查查询计划，并尝试在 AdventureWorks2017 数据库中进行改进。
 
 ## <a name="lab-6--automate-resources"></a>实验室 6 – 自动化资源
 
@@ -36,4 +36,4 @@ The students will evaluate a database design for problems with normalization, da
 
 ## <a name="notes"></a>注释
 
-When copying code from the lab exercises into the lab Virtual Machine, occasionally line breaks will not come across properly. Please verify that the code is correctly copied before executing it. 
+将代码从实验室练习复制到实验室虚拟机时，换行符偶尔会失效。 请在执行代码前，验证代码已正确复制。 
